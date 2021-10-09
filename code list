@@ -1,0 +1,6 @@
+Cls
+Input "MASUKAN GOL =", GOL$
+If GOL$ = "A" Then Print 1000
+If GOL$ = "B" Then Print 1500
+If GOL$ = "C" Then Print 2000
+End
